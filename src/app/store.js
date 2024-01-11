@@ -3,7 +3,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 
 // Import the API service we defined (which includes the API endpoints and the reducer)
-import apiServiceReducer from './path-to-api-service-reducer';
+import apiServiceReducer from './';
 
 // Create a Redux store
 export const store = configureStore({
