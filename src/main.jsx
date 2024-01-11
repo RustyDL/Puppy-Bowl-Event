@@ -11,7 +11,7 @@ import './index.css'; // Adjust the import path based on your project structure
 
 // Import the Redux store
 // The store is where you keep the app's state
-import store from './app/store'; // Adjust the import path based on your project structure
+import store from './app/store.js'; // Adjust the import path based on your project structure
 
 // Import the Provider component from react-redux
 // Provider makes the Redux store available to any nested components that need to access it
